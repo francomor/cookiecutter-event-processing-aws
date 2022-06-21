@@ -1,0 +1,7 @@
+{
+  "project_name": "",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-').replace('_', '-') }}",
+  "project_short_description": "",
+  "business_owner_bairesdev_email": "",
+  "sd_team": ["sdso", "sdmv", "sdma", "sdom", "sdim"]
+}
