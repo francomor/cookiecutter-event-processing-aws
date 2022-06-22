@@ -43,13 +43,6 @@ Variables:
 * `project_slug`: Auto generated based on `project_name`
 * `project_short_description`: A short description of the project
 * `business_owner_email`: name.surname@gmail.com
-* `sd_team`: team of SD owner of the process
-    * `sdbl`: SellDifferent BusinessLogic
-    * `sdim`: SellDifferent InfraMonitoring
-    * `sdma`: SellDifferent Mailing
-    * `sdmv`: SellDifferent MailValidation
-    * `sdso`: SellDifferent Sourcing
-    * `sdom`: SellDifferent OperationModule
 
 Then:
 

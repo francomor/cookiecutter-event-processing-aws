@@ -18,9 +18,9 @@ Parameters:
 Mappings:
   Environments:
     dev:
-      SQSLambdaQueueARN: arn:aws:sqs:us-west-2:XXXXXXXXXXX:example-queue
+      SQSLambdaQueueARN: arn:aws:sqs:us-west-2:XXXXXXXXXXXX:example-queue
     prod:
-      SQSLambdaQueueARN: arn:aws:sqs:us-west-2:XXXXXXXXXXX:example-queue
+      SQSLambdaQueueARN: arn:aws:sqs:us-west-2:XXXXXXXXXXXX:example-queue
 
 
 Globals: # https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-specification-template-anatomy-globals.html
